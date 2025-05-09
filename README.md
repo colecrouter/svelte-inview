@@ -1,4 +1,4 @@
-# svelte-inview
+# svelte-onview
 
 svelte-inview is an ultra-lightweight library that lets you effortlessly animate elements when they come in/out of view.
 
